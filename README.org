@@ -1,1 +1,5 @@
 * Trying to do a simple tui file manager.
+
+github token is: `git remote set-url origin https://youruser:password@github.com/user/repo.git
+
+A tui file manager in ......
